@@ -1,0 +1,27 @@
+{
+  "name": "developer_snippets",
+  "version": "1.0.0",
+  "description": "A bot to make your programming life easier",
+  "main": "root/bot.js",
+  "scripts": {
+    "test": "discord"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali5alkaf5/discord.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Ali Akbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali5alkaf5/discord/issues"
+  },
+  "homepage": "https://github.com/ali5alkaf5/discord#readme",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.3.1",
+    "winston": "^3.3.3"
+  }
+}
